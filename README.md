@@ -1,3 +1,1 @@
-# deep-learning
-
-ill be starting with ANN ,CNN and then RNN
+project 1 mudra classifier
